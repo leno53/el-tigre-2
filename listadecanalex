@@ -6,6 +6,9 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF: -1 ,Avila TV
 https://cdn.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8
 
+#EXTINF: -1 ,La Iguana TV
+https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+
 #EXTINF: -1 ,Catatumbo TV
 https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8
 
@@ -18,11 +21,17 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF: -1 ,EXC TV
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 
+#EXTINF: -1 ,VENEVISION PLUS
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4871
+
 #EXTINF: -1 ,Globovision
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
 #EXTINF: -1 ,TVS
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+
+#EXTINF: -1 ,TRV
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 
 #EXTINF: -1 ,Glitz
 http://181.119.67.75:16123/play/ch34
@@ -97,9 +106,6 @@ http://160.20.165.245:8000/play/a002/index.m3u8
 
 #EXTINF: -1 ,Canal de Las Estrella
 http://190.92.7.19:8000/play/a03j/index.m3u8
-
-#EXTINF: -1 ,Unicable HD
-http://45.169.99.154:58001/play/a00v/index.m3u8
 
 #EXTINF: -1 ,TLnovelas
 http://45.189.117.202:48000/play/a00f/index.m3u8
@@ -334,14 +340,8 @@ http://160.20.165.245:8000/play/a00b/index.m3u8
 #EXTINF: -1 ,CineMax
 http://190.92.7.19:8000/play/a03a/index.m3u8
 
-#EXTINF: -1 ,CineMax English HD
-http://45.189.117.202:48000/play/a02a/index.m3u8
-
 #EXTINF: -1 ,Golden
 http://45.189.117.202:48000/play/a025/index.m3u8
-
-#EXTINF: -1 ,Golden Plus
-http://181.119.67.75:16123/play/ch46
 
 #EXTINF: -1 ,Golden Premier
 http://190.92.7.19:8000/play/a00g/index.m3u8
@@ -484,6 +484,21 @@ http://160.20.165.245:8000/play/a01a/index.m3u8
 #EXTINF: -1 ,SexTream
 http://138.59.177.34:8000/play/a07g/index.m3u8
 
+#EXTINF: -1 ,BRAZZERS 1
+http://static.brazzers.com/scenes/7119/180sec.flv
+
+#EXTINF: -1 ,BRAZZERS 2
+http://static.brazzers.com/scenes/5457/180sec.flv
+
+#EXTINF: -1 ,BRAZZERS 3
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF: -1 ,BRAZZERS 4
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF: -1 ,XXX-Babes 19
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+
 #EXTINF: -1 ,Canal ADULTOS 01
 https://cdn.adultiptv.net/anal.m3u8
 
@@ -513,3 +528,44 @@ https://cdn.adultiptv.net/latina.m3u8
 
 #EXTINF: -1 ,Canal ADULTOS 10
 https://cdn.adultiptv.net/lesbian.m3u8
+
+
+
+#EXTINF: -1 ,ESTRENOS:LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+
+#EXTINF: -1 ,ESTRENOS:THE MINE (2017)
+http://bit.ly/THEMINE
+
+#EXTINF: -1 ,ESTRENOS:SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF: -1 ,ESTRENOS:Mascota Humana (2016)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF: -1 ,???? Movies2
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+
+#EXTINF: -1 ,Cuando nos Conocimos
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+
+#EXTINF: -1 ,Terminus
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF: -1 ,Deadpool
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+#EXTINF: -1 ,JIGSAW VIII
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF: -1 ,Redada Asesina
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+#EXTINF: -1 ,PelixMax 1: Castillo de Arena (2017)
+https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mkv
+
+#EXTINF: -1 ,Chucky El Muñeco Diabolico (TERROR)
+https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
+
+#EXTINF:-1,Chucky El Muñeco Diabolico II (TERROR)
+https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
