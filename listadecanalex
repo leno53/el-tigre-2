@@ -21,6 +21,12 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF: -1 ,EXC TV
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 
+#EXTINF: -1 ,Venevisión
+http://191.102.90.97:8000/play/a092/index.m3u8
+
+#EXTINF: -1 ,Televen
+http://191.102.90.97:8000/play/a094/index.m3u8
+
 #EXTINF: -1 ,Globovision
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
@@ -59,6 +65,9 @@ http://190.122.96.187:8888/http/006
 
 #EXTINF: -1 ,Vive
 https://cdn.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
+
+#EXTINF: -1 ,TVES
+http://191.102.90.97:8000/play/a08u/index.m3u8
 
 #EXTINF: -1 ,Telesol TV
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
@@ -264,7 +273,7 @@ http://45.169.99.154:58001/play/a01t/index.m3u8
 
 
 #EXTINF: -1 ,SyFy
-http://45.169.99.154:58001/play/a02r/index.m3u8
+http://191.102.90.97:8000/play/a0bf/index.m3u8
 
 #EXTINF: -1 ,AXN HD
 http://160.20.165.245:8000/play/a00n/index.m3u8
@@ -336,6 +345,9 @@ http://160.20.165.245:8000/play/a00b/index.m3u8
 
 #EXTINF: -1 ,CineMax
 http://190.92.7.19:8000/play/a03a/index.m3u8
+
+#EXTINF: -1 ,Cinemax 2
+http://191.102.90.97:8000/play/a0ax/index.m3u8
 
 #EXTINF: -1 ,Golden
 http://45.189.117.202:48000/play/a025/index.m3u8
