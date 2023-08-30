@@ -2,10 +2,10 @@
 
 
 
-#EXTINF: -1 ,Venevisión
+#EXTINF: -1 tvg-id="" tvg-name="Venevision" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png" group-title="VENEZUELA",Venevision
 http://191.102.90.97:8000/play/a092/index.m3u8
 
-#EXTINF: -1 ,Televen
+#EXTINF: -1 tvg-id="" tvg-name="Televen" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png" group-title="VENEZUELA",Televen
 http://191.102.90.97:8000/play/a094/index.m3u8
 
 #EXTINF: -1 ,Globovision
