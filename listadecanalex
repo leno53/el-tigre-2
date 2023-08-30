@@ -2,109 +2,109 @@
 
 
 
-#EXTINF: -1 tvg-id="" tvg-name="Venevision" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png" group-title="VENEZUELA",Venevision
+#EXTINF: -1 ,Venevision
 http://191.102.90.97:8000/play/a092/index.m3u8
 
-#EXTINF: -1 tvg-name="Venevision Plus" tvg-logo="https://lh3.googleusercontent.com/-YDuwzT6TTPE/YmxPSsK8k1I/AAAAAAAADjo/lsoU8iac454NwS9CR-caxE2pLE-E6UpRACNcBGAsYHQ/w200 -h200/1651265352925832-9.png" group-title="VENEZUELA",Venevision Plus
-http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153982
-
-#EXTINF: -1 tvg-id="" tvg-name="Televen" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png" group-title="VENEZUELA",Televen
+#EXTINF: -1 ,Televen
 http://191.102.90.97:8000/play/a094/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="Globovision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="VENEZUELA",Globovision
+#EXTINF: -1 ,Globovision
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="TVS" tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png" group-title="VENEZUELA,TVS
+#EXTINF: -1 ,TVS
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IVC" tvg-name="IVC" tvg-logo="https://lh3.googleusercontent.com/-4PrxkdOVgkU/Ymxk3bTD7UI/AAAAAAAADlw /IynrbVTF1A8hj6eYTdQG6CpjuaBBb9dgQCNcBGAsYHQ/w200-h200/1651270875695937-1.png" group-title="VENEZUELA",IVC
+#EXTINF: -1 ,IVC
 http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153996
 
-#EXTINF: -1 tvg-id="" tvg-name="TRV" tvg-logo="https://i2.paste.pics/691fbd76ac69d53faecf3480cecd4826.png" group-title="VENEZUELA",TRV
+#EXTINF: -1 ,TRV
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="TeleAragua" tvg-logo="https://lh3.googleusercontent.com/-EU-nUtiQqs4/XxuEMjQ5PYI/AAAAAAAA3TQ/pSYeFGaagSEqIx-VKMWUhzLipnXzD3qiQCK8BGAsYHg/s0/2020-07-24.png" group-title="VENEZUELA",TeleAragua
+#EXTINF: -1 ,TeleAragua
 http://45.173.198.59:8080/hls/nginx3.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="Anzoategui TV" tvg-logo="https://i2.paste.pics/424b6a55497d0fcf8744e5a55ba2ff93.png" group-title="VENEZUELA",Anzoategui TV
+#EXTINF: -1 ,Anzoategui TV
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="ConCiencia TV" tvg-logo="https://i.imgur.com/kzOOz8R.png" group-title="VENEZUELA",ConCiencia TV
+#EXTINF: -1 ,ConCiencia TV
 https://cdn.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="Catatumbo TV" tvg-logo="https://pbs.twimg.com/profile_images/685552789745963008/iCuCWWJY_400x400.jpg" group-title="VENEZUELA",Catatumbo TV
+#EXTINF: -1 ,Catatumbo TV
 https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="Torococo TV" tvg-logo="https://i2.paste.pics/35108ebb25b382e0d009797b20f6d34a.png" group-title="VENEZUELA",Torococo TV
+#EXTINF: -1 ,Torococo TV
 https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Colombeia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_Colombeia.png" group-title="VENEZUELA",Colombeia
+#EXTINF: -1 ,Colombeia
 https://cdn.odysee.live/content/ba3d31fdf59976d63976e5a2173df36b442104ba/master.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="EXC TV" tvg-logo="https://i2.paste.pics/809204eb3ad39d8c9429bbfd4358884d.png" group-title="VENEZUELA",EXC TV
+#EXTINF: -1 ,EXC TV
 http://premiumultra.xyz:8080/941753964tv/n754ji/35023
 
-#EXTINF: -1 tvg-id="" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="VENEZUELA",Glitz
+#EXTINF: -1 ,Glitz
 http://181.119.67.75:16123/play/ch34
 
-#EXTINF: -1 tvg-id="" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png" group-title="VENEZUELA",Promar TV
+#EXTINF: -1 ,Promar TV
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 
 #EXTINF: -1 ,TNO Radio
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Televisora de Oriente" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="VENEZUELA",Televisora de Oriente
+#EXTINF: -1 ,Televisora de Oriente
 https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="VENEZUELA",TeleSUR
+#EXTINF: -1 ,TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="TVes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TVes
+#EXTINF: -1 ,TVes
 https://ls.tves.gob.ve/hls/tves.m3u8
 
-#EXTINF: -1 tvg-id="Telecolor" tvg-logo="https://i.imgur.com/YvdzJHj.png" group-title="VENEZUELA",Telecolor
+#EXTINF: -1 ,Telecolor
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 
-#EXTINF: -1 tvg-id="ValeTV" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="VENEZUELA",Vale TV
+#EXTINF: -1 ,Vale TV
 https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
 
-#EXTINF: -1 tvg-id="VepacoTV" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="VENEZUELA",Vepaco TV
+#EXTINF: -1 ,Vepaco TV
 https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 
-#EXTINF: -1 tvg-id="VePlus" tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="VENEZUELA",Ve Plus
-http://190.122.96.187:8888/http/006
+#EXTINF: -1 ,Ve Plus
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153982
 
-#EXTINF: -1 tvg-id="Vive" tvg-logo="https://i.imgur.com/VEYhkDq.png" group-title="VENEZUELA",Vive
+#EXTINF: -1 ,Vive
 https://cdn.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
 
-#EXTINF: -1 tvg-id="TelesolTV" tvg-logo="https://i.imgur.com/iagCG6y.png" group-title="VENEZUELA",Telesol TV
+#EXTINF: -1 ,Telesol TV
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TVFamilia" tvg-logo="https://i.imgur.com/A3bU5e7.png" group-title="VENEZUELA",TV Familia
+#EXTINF: -1 ,TV Familia
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 
 #EXTINF: -1 ,VPI TV
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-#EXTINF: -1 tvg-id="CanalI" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="VENEZUELA",Canal i
+#EXTINF: -1 ,Canal i
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="MEXICO",DISTRITO COMEDIA
+#EXTINF: -1,SUNChannel
+http://190.92.7.19:8000/play/a02t/index.m3u8
+
+#EXTINF: -1 ,DISTRITO COMEDIA
 http://premiumultra.xyz:8080/941753964tv/n754ji/634
 
-#EXTINF: -1 tvg-id="" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://i.ibb.co/T2K5jGx/r4354545.png" group-title="TELEMUNDO BOSTON",GALAVISION
+#EXTINF: -1 ,GALAVISION
 http://premiumultra.xyz:8080/941753964tv/n754ji/22875
 
-#EXTINF: -1 tvg-id="" tvg-name="CNN en Español" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CNNespa.png" group-title="USA",CNN en Español
+#EXTINF: -1 ,CNN en Español
 http://181.78.24.67:8010/play/a03p/index.m3u8
 
-#EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="ENTRETENIMIENTO",Antena 3
+#EXTINF: -1 ,Antena 3
 http://160.20.165.245:8000/play/a00e/index.m3u8
 
 #EXTINF: -1 ,Noticias Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF: -1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg",Caracol CL
+#EXTINF: -1 ,Caracol CL
 http://160.20.165.245:8000/play/a00h/index.m3u8
 
 #EXTINF: -1 ,France 24 Español
@@ -119,22 +119,25 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF: -1 ,Televisión HD
 http://45.169.99.154:58001/play/a00a/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="ENTRETENIMIENTO",Telemundo Internacional
+#EXTINF: -1 ,Telemundo HD
 http://160.20.165.245:8000/play/a002/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="Telemundo Miami" tvg-logo="https://i.ibb.co/zfs9NpK/34534543t5dsfd.png" group-title="TELEMUNDO",Telemundo Miami
+#EXTINF: -1 ,Telemundo Miami
 http://1tv41.icu:8080/Py5zFZ/363334/56410
 
-#EXTINF: -1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="COLOMBIA",PASIONES
+#EXTINF: -1 ,Azteca Internacional
+http://190.92.7.19:8000/play/a016/index.m3u8
+
+#EXTINF: -1 ,Pasiones
 http://160.20.165.245:8000/play/a00g/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="OromarTV" tvg-logo="https://i.ibb.co/c3Ztmcr/large-thumbnail-1.jpg" group-title="ECUADOR",Oromar TV
+#EXTINF: -1 ,Oromar TV
 http://160.20.165.245:8000/play/a00t/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="EWTN" tvg-logo="https://lh3.googleusercontent.com/-3lr3InkQOSY/YKpaD_5GcMI/AAAAAAABCfU/W-_bV-aXlw0GngiTAXR6qo7WBBRxMuTzwCK8BGAsYHg/s512/2021-05-23.jpg" group-title="Canal CATOLICO",EWTN Canal Catolico
+#EXTINF: -1 ,EWTN Canal Catolico
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF: -1 ,Enlace TV
+#EXTINF: -1 ,Enlace TV Canal Cristiano
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 
 
@@ -142,33 +145,32 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF: -1 ,Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",HISTORY CHANNEL
+#EXTINF: -1 ,History Channel
 http://45.169.99.154:58001/play/a02f/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://1.bp.blogspot.com/-1OK3OM29PdY/XaukfgHEdHI/AAAAAAAAAgM/qIWGlCukzS4G5gxieXqIi3468U9NM56DQCLcBGAsYHQ/s200/4.png" group-title="CULTURA",ANIMAL PLANET
+#EXTINF: -1 ,Animal Planet
 http://45.169.99.154:58001/play/a011/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/250px-H%26h_Logo.svg.png" group-title="CULTURA",DISCOVERY H&H
+#EXTINF: -1 ,Discovery H&H
 http://1tv41.icu:8080/Py5zFZ/363334/66245
 
-#EXTINF: -1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png" group-title="CULTURA",DISCOVERY TURBO
+#EXTINF: -1 ,Discovery TURBO
 http://1tv41.icu:8080/Py5zFZ/363334/139757
 
-#EXTINF: -1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CULTURA",DISCOVERY CHANNEL
+#EXTINF: -1 ,Discovery CHANNEL
 http://45.169.99.154:58001/play/a00r/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CULTURA",DISCOVERY CHANNEL FHD
+#EXTINF: -1 ,Discovery CHANNEL FHD
 http://1tv41.icu:8080/Py5zFZ/363334/57625
 
-#EXTINF: -1 tvg-id="" tvg-name="DISCOVERY ID HD" tvg-logo="" group-title="BRASIL",DISCOVERY ID HD
+#EXTINF: -1 ,Discovery ID HD
 http://45.169.99.154:58001/play/a00w/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://1.bp.blogspot.com/-BzAhrKSxP3M/Xaukgj6CHCI/AAAAAAAAAgc/GsnF0u2sAvI-wB4L3yFhac_zhO8mg50hgCLcBGAsYHQ/s200/8.png" group-title="CULTURA",Discovery Theater
+#EXTINF: -1 ,Discovery Theater
 http://181.119.67.75:16123/play/ch09
 
-#EXTINF: -1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://1.bp.blogspot.com/-UP7Lxz2Td8g/XaukgY8HACI/AAAAAAAAAgY/HFeHTRkVWe4w5VJb-QATOz7rmIMfAFKSQCLcBGAsYHQ/s200/7.png" group-title="CULTURA",DISCOVERY WORLD
+#EXTINF: -1 ,Discovery WORLD
 http://45.169.99.154:58001/play/a00t/index.m3u8
-
 #EXTINF: -1 ,Azteca Clikc HD
 http://45.169.99.154:58001/play/a01b/index.m3u8
 
