@@ -1,12 +1,11 @@
 # EXTM3U
 
 
+#EXTINF: -1 ,Venevisión
+http://191.102.90.97:8000/play/a092/index.m3u8
 
-#EXTINF: -1 ,Venevision
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/148635
-
-#EXTINF: -1 ,VENEVISION PLUS
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151671
+#EXTINF: -1 ,Venevisión PLUS
+http://181.119.67.75:16123/play/ch36
 
 #EXTINF: -1 ,Televen
 http://191.102.90.97:8000/play/a094/index.m3u8
@@ -16,9 +15,6 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF: -1 ,TVS Maracay
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF: -1 ,IVC
-http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153996
 
 #EXTINF: -1 ,TRV
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
@@ -56,26 +52,14 @@ https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 #EXTINF: -1 ,Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: -1 ,TVes
-https://ls.tves.gob.ve/hls/tves.m3u8
-
 #EXTINF: -1 ,Telecolor
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
-
-#EXTINF: -1 ,Vale TV
-https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
 
 #EXTINF: -1 ,Vepaco TV
 https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 
-#EXTINF: -1 ,Vive
-https://cdn.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
-
 #EXTINF: -1 ,Telesol TV
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
-
-#EXTINF: -1 ,TV Familia
-https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 
 #EXTINF: -1 ,VPI TV
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
@@ -101,6 +85,9 @@ http://160.20.165.245:8000/play/a00h/index.m3u8
 #EXTINF: -1 ,France 24 Español
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
+#EXTINF: -1 ,NTN 24 Horas
+http://200.24.204.242:6020/play/a0d6/index.m3u8
+
 #EXTINF: -1 ,FOX Noticias
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
@@ -113,44 +100,26 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/154741
 #EXTINF: -1 ,Las Estrellas HD®
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129048
 
-#EXTINF: -1 ,Las Estrella Games
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298336
-
-#EXTINF: -1 ,Televisa Monterey (HD)®
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/160989
-
-#EXTINF: -1 ,Distrito Comedia
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9126
-
-#EXTINF: -1 ,Unicable
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5804
-
-#EXTINF: -1 ,Televisión HD
-http://45.169.99.154:58001/play/a00a/index.m3u8
-
 #EXTINF: -1 ,Telemundo HD
 http://160.20.165.245:8000/play/a002/index.m3u8
 
 #EXTINF: -1 ,Telemundo Miami
 http://1tv41.icu:8080/Py5zFZ/363334/56410
 
-#EXTINF: -1 ,Azteca Internacional
-http://190.92.7.19:8000/play/a016/index.m3u8
+#EXTINF: -1 ,Distrito Comedia
+http://200.24.204.242:6020/play/a0dk/index.m3u8
 
-#EXTINF: -1 ,AZTECA CLICK UHD®
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/145506
+#EXTINF: -1 ,Pasiones HD
+http://179.51.163.250:8000/play/a010/index.m3u8
 
-#EXTINF: -1 ,AZTECA MUNDO UHD®
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/145512
+#EXTINF: -1 ,Telenovelas
+http://200.24.204.242:6020/play/a093/index.m3u8
 
-#EXTINF: -1 ,Az Corazon
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2999
+#EXTINF: -1 ,NUESTRA TELE
+http://160.20.165.245:8000/play/a015/index.m3u8
 
-#EXTINF: -1 ,Telemundo HD
-http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126532
-
-#EXTINF: -1 ,Pasiones
-http://160.20.165.245:8000/play/a00g/index.m3u8
+#EXTINF: -1 ,TV Familia
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 
 #EXTINF: -1 ,EWTN Canal Catolico
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -163,111 +132,110 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF: -1 ,Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
+#EXTINF: -1 ,Film & Arts HD
+http://138.59.177.34:8000/play/a031/index.m3u8
+
 #EXTINF: -1 ,Investigation Discovery
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9056
+http://200.24.204.242:6020/play/a09a/index.m3u8
+
+#EXTINF: -1 ,Discovery ID HD
+http://181.119.67.75:16123/play/ch23
+
+#EXTINF: -1 ,Discovery Ciencia
+http://138.59.177.34:8000/play/a00v/index.m3u8
 
 #EXTINF: -1 ,History Channel
-http://45.169.99.154:58001/play/a02f/index.m3u8
+http://138.59.177.34:8000/play/a02s/index.m3u8
+
+#EXTINF: -1 ,History 2
+http://200.24.204.242:6020/play/a0be/index.m3u8
 
 #EXTINF: -1 ,Animal Planet
-http://45.169.99.154:58001/play/a011/index.m3u8
+http://160.20.165.245:8000/play/a010/index.m3u8
+
+#EXTINF: -1 ,Animal Planeta HD
+http://181.119.67.75:16123/play/ch29
 
 #EXTINF: -1 ,Discovery H&H
-http://1tv41.icu:8080/Py5zFZ/363334/66245
+http://181.119.67.75:16123/play/ch25
 
 #EXTINF: -1 ,Discovery TURBO
 http://1tv41.icu:8080/Py5zFZ/363334/139757
 
 #EXTINF: -1 ,Discovery CHANNEL
-http://45.169.99.154:58001/play/a00r/index.m3u8
+http://138.59.177.34:8000/play/a077/index.m3u8
 
 #EXTINF: -1 ,Discovery CHANNEL FHD
 http://1tv41.icu:8080/Py5zFZ/363334/57625
 
-#EXTINF: -1 ,Discovery ID HD
-http://45.169.99.154:58001/play/a00w/index.m3u8
+#EXTINF: -1 ,Love NATURE
+http://160.20.165.245:8000/play/a00d/index.m3u8
 
-#EXTINF: -1 ,Discovery Theater
-http://181.119.67.75:16123/play/ch09
+#EXTINF: -1 ,Discovery Theater HD
+http://138.59.177.34:8000/play/a05m/index.m3u8
+
+
 
 #EXTINF: -1 ,Discovery WORLD
-http://45.169.99.154:58001/play/a00t/index.m3u8
-
-#EXTINF: -1 ,Azteca Clikc HD
-http://45.169.99.154:58001/play/a01b/index.m3u8
+http://138.59.177.34:8000/play/a078/index.m3u8
 
 #EXTINF: -1 ,Food Network
 http://181.119.67.75:16123/play/ch28
 
-#EXTINF: -1 ,TRUtv
-http://181.119.67.75:16123/play/a06a
-
-#EXTINF: -1 ,Natgeo Wild HD
+#EXTINF: -1 ,Natgeo HD
 http://181.119.67.75:16123/play/ch30
 
 #EXTINF: -1 ,E! Entertainment HD
-http://45.169.99.154:58001/play/a012/index.m3u8
+http://160.20.165.245:8000/play/a00l/index.m3u8
 
 #EXTINF: -1 ,Universal Reality HD
 http://138.59.177.34:8000/play/a05u/index.m3u8
 
-#EXTINF: -1 ,Universal Crimen HD
-http://45.169.99.154:58001/play/a01y/index.m3u8
-
-#EXTINF: -1 ,BBC America
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF: -1 ,CGTN
+http://181.119.67.75:16123/play/ch32
 
 #EXTINF: -1 ,El Gourmet
-http://181.119.67.75:16123/play/ch27
+http://138.59.177.34:8000/play/a043/index.m3u8
 
 
 
 #EXTINF: -1 ,eSports Max TV
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: -1 ,Cartoon Network HD
-http://181.119.67.75:16123/play/a068
+#EXTINF: -1 ,Tooncast
+http://138.59.177.34:8000/play/a04x/index.m3u8
 
 #EXTINF: -1 ,Cartoonito HD
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF: -1 ,Disney Junior
-http://181.119.67.75:16123/play/ch05
+http://200.24.204.242:6020/play/a097/index.m3u8
 
 #EXTINF: -1 ,Disney channel
-http://45.189.117.202:48000/play/a00t/index.m3u8
+http://181.119.67.75:16123/play/ch03
 
 #EXTINF: -1 ,Discovery KID
 http://160.20.165.245:8000/play/a016/index.m3u8
 
-#EXTINF: -1 ,Discovery KIDs HD
-http://45.169.99.154:58001/play/a021/index.m3u8
-
-#EXTINF: -1 ,FanPop
-http://160.20.165.245:8000/play/a01g/index.m3u8
-
-#EXTINF: -1 ,FMH KID
+#EXTINF: -1 ,FMH KIDs
 http://160.20.165.245:8000/play/a01f/index.m3u8
 
 #EXTINF: -1 ,Zoom
 http://160.20.165.245:8000/play/a017/index.m3u8
 
-#EXTINF: -1 ,Canal Infantil
-http://181.119.67.75:16123/play/ch06
-
-#EXTINF: -1 ,Tooncast
-http://181.119.67.75:16123/play/a069
+#EXTINF: -1 ,Nickelodeon HD
+http://138.59.177.34:8000/play/a05j/index.m3u8
 
 #EXTINF: -1 ,NICK Adolescentes HD
-http://45.169.99.154:58001/play/a01t/index.m3u8
+http://138.59.177.34:8000/play/a02x/index.m3u8
 
 
 
-#EXTINF: -1 ,Oromar TV
-http://160.20.165.245:8000/play/a00t/index.m3u8
+#EXTINF: -1 ,Comedy Central HD
+http://138.59.177.34:8000/play/a05p/index.m3u8
 
 #EXTINF: -1 ,Warner Bros TV HD
-http://45.169.99.154:58001/play/a02k/index.m3u8
+http://160.20.165.245:8000/play/a00j/index.m3u8
 
 #EXTINF: -1 ,FX HD
 http://181.119.67.75:16123/play/ch08
@@ -281,38 +249,64 @@ http://160.20.165.245:8000/play/a00n/index.m3u8
 #EXTINF: -1 ,A&E HD
 http://160.20.165.245:8000/play/a00k/index.m3u8
 
-#EXTINF: -1 ,Universal HD
+#EXTINF: -1 ,A&E Urgencias
+http://160.20.165.245:8000/play/a00k/index.m3u8
+
+#EXTINF: -1 ,Universal TV HD
 http://160.20.165.245:8000/play/a01d/index.m3u8
 
 #EXTINF: -1 ,Universal Comedia HD
-http://45.169.99.154:58001/play/a01z/index.m3u8
+http://138.59.177.34:8000/play/a05w/index.m3u8
 
 #EXTINF: -1 ,Universal Cinema HD
-http://45.169.99.154:58001/play/a00x/index.m3u8
+http://138.59.177.34:8000/play/a07c/index.m3u8
+
+#EXTINF: -1 ,Universal CRIMEN HD
+http://138.59.177.34:8000/play/a05v/index.m3u8
+
+#EXTINF: -1 ,Universal PREMIER HD
+http://138.59.177.34:8000/play/a05t/index.m3u8
 
 #EXTINF: -1 ,Sony Channel HD
-http://45.169.99.154:58001/play/a02l/index.m3u8
+http://160.20.165.245:8000/play/a00o/index.m3u8
 
-#EXTINF: -1 ,TNT Series
-http://181.119.67.75:16123/play/a065
+#EXTINF: -1 ,Star Channel
+http://181.119.67.75:16123/play/ch07
+
+#EXTINF: -1 ,City TV
+http://181.119.67.75:16123/play/ch42
+
+#EXTINF: -1 ,TNT Series HD
+http://138.59.177.34:8000/play/a076/index.m3u8
+
+
+
+#EXTINF: -1 ,TCM
+http://138.59.177.34:8000/play/a04e/index.m3u8
+
+#EXTINF: -1 ,Depelicula
+http://181.119.67.75:16123/play/ch57
 
 #EXTINF: -1 ,TLC
 http://181.119.67.75:16123/play/ch26
-
-#EXTINF: -1 ,Clover channel
-http://160.20.165.245:8000/play/a006/index.m3u8
 
 #EXTINF: -1 ,Classic+
 http://160.20.165.245:8000/play/a01h/index.m3u8
 
 #EXTINF: -1 ,DHE HD
-http://45.169.99.154:58001/play/a01a/index.m3u8
+http://181.119.67.75:16123/play/ch14
 
-#EXTINF: -1 ,AMC
-http://181.119.67.75:16123/play/ch13
+#EXTINF: -1 ,MULTICINE HD
+http://160.20.165.245:8000/play/a00a/index.m3u8
+
+#EXTINF: -1 ,AMC HD
+http://138.59.177.34:8000/play/a033/index.m3u8
 
 #EXTINF: -1 ,Studio Universal
 http://160.20.165.245:8000/play/a01c/index.m3u8
+
+#EXTINF: -1 ,Sony Movies HD
+http://138.59.177.34:8000/play/a037/index.m3u8
 
 #EXTINF: -1 ,FMH Family
 http://160.20.165.245:8000/play/a01j/index.m3u8
@@ -320,32 +314,62 @@ http://160.20.165.245:8000/play/a01j/index.m3u8
 #EXTINF: -1 ,Cine Premiun
 http://181.119.67.75:16123/play/ch49
 
+#EXTINF: -1 ,Cine Hispano
+http://181.119.67.75:16123/play/ch51
+
+#EXTINF: -1 ,Cine Latino
+http://138.59.177.34:8000/play/a06p/index.m3u8
+
+#EXTINF: -1 ,Cine Familiar
+http://181.119.67.75:16123/play/ch52
+
 #EXTINF: -1 ,Cinecanal
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/290334
+http://200.24.204.242:6020/play/a0ag/index.m3u8
+
+#EXTINF: -1 ,Cinemax HD
+http://200.24.204.242:6020/play/a0b4/index.m3u8
 
 #EXTINF: -1 ,TNT HD
-http://181.119.67.75:16123/play/a08i
+http://138.59.177.34:8000/play/a05l/index.m3u8
 
 #EXTINF: -1 ,Multi Premier HD
 http://160.20.165.245:8000/play/a00b/index.m3u8
 
+#EXTINF: -1 ,Golden
+http://138.59.177.34:8000/play/a04d/index.m3u8
+
+#EXTINF: -1 ,Golden Premier
+http://138.59.177.34:8000/play/a018/index.m3u8
+
 #EXTINF: -1 ,Golden Premier 2
-http://45.169.99.154:58001/play/a023/index.m3u8
+http://138.59.177.34:8000/play/a019/index.m3u8
+
+#EXTINF: -1 ,Golden PLUS HD
+http://181.119.67.75:16123/play/ch46
 
 #EXTINF: -1 ,Golden EGE
 http://181.119.67.75:16123/play/ch47
 
 #EXTINF: -1 ,Space HD
-http://45.169.99.154:58001/play/a02q/index.m3u8
+http://138.59.177.34:8000/play/a06x/index.m3u8
 
 #EXTINF: -1 ,Paramount Network HD
-http://45.169.99.154:58001/play/a00p/index.m3u8
+http://138.59.177.34:8000/play/a075/index.m3u8
 
-#EXTINF: -1 ,HBO
-http://190.92.7.19:8000/play/a00v/index.m3u8
+#EXTINF: -1 ,HBO HD
+http://138.59.177.34:8000/play/a01m/index.m3u8
+
+#EXTINF: -1 ,HBO 2 HD
+http://138.59.177.34:8000/play/a01n/index.m3u8
+
+#EXTINF: -1 ,HBO POP HD
+http://179.51.163.250:8000/play/a00s/index.m3u8
 
 #EXTINF: -1 ,HBO+
-http://190.92.7.19:8000/play/a00x/index.m3u8
+http://138.59.177.34:8000/play/a01o/index.m3u8
+
+#EXTINF: -1 ,HBO Familia HD
+http://138.59.177.34:8000/play/a01p/index.m3u8
 
 #EXTINF: -1 ,HBO Xtreme
 http://190.92.7.19:8000/play/a00z/index.m3u8
@@ -355,74 +379,59 @@ http://181.119.67.75:16123/play/ch07
 
 
 
-#EXTINF: -1 ,DAZN FORMULA 1
-http://jagertv.us:8880/Guille/Guille/20591
+#EXTINF: -1 ,Claro Deportes 1 HD
+http://138.59.177.34:8000/play/a01i/index.m3u8
 
-#EXTINF: -1 ,DAZN 1 HD
-http://yorkshiredog.xyz:8080/Juana/Juana/9857
+#EXTINF: -1 ,Claro Deportes 2 HD
+http://138.59.177.34:8000/play/a01j/index.m3u8
 
-#EXTINF: -1 ,DAZN 2 HD
-http://yorkshiredog.xyz:8080/Juana/Juana/9864
+#EXTINF: -1 ,TNT Deportes HD
+http://200.24.204.242:6020/play/a0e8/index.m3u8
 
-#EXTINF: -1 ,DAZN 3
-http://jagertv.us:8880/Guille/Guille/20589
-
-#EXTINF: -1 ,BEIN SPORTS
-http://gotv.vip:8880/enrique12/enrique12/20896
-
-#EXTINF: -1 ,BEIN Sports 6
-http://192.99.70.160:25461/Victor/Victor/117057
-
-#EXTINF: -1 ,FOX SPORTS HD
-http://192.99.70.160:25461/Victor/Victor/77
-
-#EXTINF: -1 ,FOX SPORTS 1 HD
-http://jagertv.us:8880/Guille/Guille/146053
-
-#EXTINF: -1 ,FOX Sports 2
-http://181.119.67.75:16123/play/ch20
-
-#EXTINF: -1 ,FOX SPORTS 2 HD
-http://192.99.70.160:25461/Victor/Victor/78
-
-#EXTINF: -1 ,FOX SPORTS 3
-http://192.99.70.160:25461/Victor/Victor/79
+#EXTINF: -1 ,FOX Sports 2 HD
+http://179.51.163.250:8000/play/a01n/index.m3u8
 
 #EXTINF: -1 ,FOX Sports 3
 http://138.59.177.34:8000/play/a073/index.m3u8
 
-#EXTINF: -1 ,ESPN DEPORTES
-http://jagertv.us:8880/Guille/Guille/22067
+#EXTINF: -1 ,FOX Sports 2
+http://181.119.67.75:16123/play/ch20
 
-#EXTINF: -1 ,ESPN HD
-http://45.169.99.154:58001/play/a00k/index.m3u8
+#EXTINF: -1 ,FOX Sports 3 HD
+http://179.51.163.250:8000/play/a015/index.m3u8
 
 #EXTINF: -1 ,ESPN Extra Argentina
 http://181.78.24.67:8010/play/a05n/index.m3u8
 
-#EXTINF: -1 ,ESPN 1 HD MX
-http://jagertv.us:8880/Guille/Guille/65639
+#EXTINF: -1 ,ESPN EXTRA HD
+http://181.119.67.75:16123/play/ch90
 
-#EXTINF: -1 ,ESPN 1 HD ARG
-http://192.99.70.160:25461/Victor/Victor/91060
+#EXTINF: -1 ,ESPN HD
+http://200.24.204.242:6020/play/a0e6/index.m3u8
 
 #EXTINF: -1 ,ESPN 2 HD
-http://jagertv.us:8880/Guille/Guille/65640
+http://200.24.204.242:6020/play/a0e5/index.m3u8
 
 #EXTINF: -1 ,ESPN 3 HD
-http://192.99.70.160:25461/Victor/Victor/91069
+http://200.24.204.242:6020/play/a0e7/index.m3u8
 
 #EXTINF: -1 ,ESPN 4 Argentina
 http://181.78.24.67:8010/play/a04j/index.m3u8
 
-#EXTINF: -1 ,ESPN 4 HD ARG
-http://jagertv.us:8880/Guille/Guille/65638
+#EXTINF: -1 ,ESPN 4 Argentina HD
+http://181.119.67.75:16123/play/ch19
 
-#EXTINF: -1 ,Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF: -1 ,TITAN
+http://160.20.165.245:8000/play/a01i/index.m3u8
 
-#EXTINF: -1 ,WINSPORTS+
-http://192.99.70.160:25461/Victor/Victor/267
+#EXTINF: -1 ,Golf TV HD
+http://138.59.177.34:8000/play/a03b/index.m3u8
+
+#EXTINF: -1 ,TyC Deportes
+http://200.24.204.242:6020/play/a08q/index.m3u8
+
+#EXTINF: -1 ,Tigo Sports HD
+http://138.59.177.34:8000/play/a05i/index.m3u8
 
 #EXTINF: -1 ,Tigo Sports
 http://138.59.177.34:8000/play/a05i/index.m3u8
@@ -430,13 +439,13 @@ http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF: -1 ,WIN Sports+
 http://181.119.67.75:16123/play/a041
 
-#EXTINF: -1 ,UFC Fight Pass
-http://gotv.vip:8880/enrique12/enrique12/59187
+#EXTINF: -1 ,WIN Sports+ HD
+http://181.119.67.75:16123/play/a041
 
 
 
 #EXTINF: -1 ,Htv
-http://181.119.67.75:16123/play/a06b
+http://200.24.204.242:6020/play/a0d5/index.m3u8
 
 #EXTINF: -1 ,Mi Musica Reggeton
 http://181.119.67.75:16123/play/ch53
@@ -462,9 +471,6 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 #EXTINF: -1 ,Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
-#EXTINF: -1 ,Panavision TV
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
-
 #EXTINF: -1 ,ShowVen TV
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
 
@@ -476,40 +482,113 @@ http://160.20.165.245:8000/play/a01a/index.m3u8
 
 
 
-#EXTINF: -1 ,Canal ADULTOS 01
-https://cdn.adultiptv.net/anal.m3u8
+#EXTINF: -1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de Rescate 2 2023
+https://archive.org/download/01_20230623_20230623_1839/01.mp4
 
-#EXTINF: -1 ,Canal ADULTOS 02
-https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF: -1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10
+http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
 
-#EXTINF: -1 ,Canal ADULTOS 03
-https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF: -1 group-title="Pelis 1" type="película" tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",Indiana Jones 5
+http://208.88.245.85/nuevo/indianajones5.latino.mkv
 
-#EXTINF: -1 ,Canal ADULTOS 04
-https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF: -1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: A través del Spider-Verso (2023)
+https://archive.org/download/01_20230602_20230602/01.mp4
 
-#EXTINF: -1 ,Canal ADULTOS 05
-https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF: -1 group-title="Pelis 1" type="película" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental
+http://208.88.245.81/nuevo/elemental.dual2023.mkv
 
-#EXTINF: -1 ,Canal ADULTOS 06
-https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF: -1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lotWiuWuTGlQ94rzBdy6ZmKZnTA.jpg",Krakens y sirenas
+http://208.88.245.85/nuevo/krakensysirenas.dual2023.mkv
 
-#EXTINF: -1 ,Canal ADULTOS 07
-https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF: -1 ,El Exorcista del Papa (2023)
+http://208.88.245.85/nuevo/el.exorcistadelpapa.dual2023.mkv
 
-#EXTINF: -1 ,Canal ADULTOS 08
-https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF: -1 ,Alerta extrema (2023)
+http://208.88.245.81/nuevo/alerta.extrema.dual.2023.mkv
 
-#EXTINF: -1 ,Canal ADULTOS 09
-https://cdn.adultiptv.net/latina.m3u8
+#EXTINF: -1 group-title="Without category",VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
-#EXTINF: -1 ,Canal ADULTOS 10
-https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF: -1 group-title="Without category" tvg-logo="..\Channel\Logo\CaspioNet.png",CASTILLO DE ARENA (2017)
+http://bit.ly/MRAQCASTI
 
+#EXTINF: -1 group-title="Without category" tvg-logo="..\Channel\Logo\Teen Life.png",EN EL CORAZON DEL MAR
+https://goo.gl/4BqODN
 
+#EXTINF: -1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8fk4l8PvGGjHYCUpA4gGbyIoS3S.jpg",Sé tu misma 2023
+https://archive.org/download/01_20230623_20230623_2021/01.mp4
 
-#EXTINF: -1 ,ESTRENOS:LA BELLA DURMIENTE (CLASICA)
-http://bit.ly/LABELLAMOVIE
+#EXTINF: -1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",Black Clover: La espada del rey mago
+https://archive.org/download/01_20230623_20230623_1910/01.mp4
+
+#EXTINF: -1 group-title="Pelis 1" type="película" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",Flash
+https://archive.org/download/01_20230623_20230623_1636/01.mp4
+
+#EXTINF: -1 ,Ant-Man y la Avispa: Quantumanía (2023)
+http://208.88.245.85/nuevo/antman.quantumania.dual2023.mkv
+
+#EXTINF: -1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",Suegros de armas tomar
+http://208.88.245.85/nuevo/suegros.dearmas.tomar.dual.2023.mkv
+
+#EXTINF: -1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya
+http://208.88.245.81/nuevo/cuiden.a.maya.dual2023.mkv
+
+#EXTINF: -1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2axXVpi3dKfESWzgncbakLB7o7f.jpg",La princesa cisne
+http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv
+
+#EXTINF: -1 group-title="Pelis 1" type="película" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Cráter
+http://208.88.245.81/nuevo/crater.dual.2023.mkv
+
+#EXTINF: -1 group-title="Pelis 1" type="película" tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita suegra
+http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
+#EXTINF: -1 ,Los Caballeros del Zodiaco (2023)
+http://208.88.245.85/nuevo/calaydrag.honorentre.ladrones.dual2023.mkv
+
+#EXTINF: -1 ,Peter Pan y Wendy (2023)
+http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
+
+#EXTINF:- 1 ,Power Rangers: Ayer, hoy y siempre (2023)
+http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
+
+#EXTINF: -1 ,Fantasma (2023)
+http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
+
+#EXTINF: -1 ,Embaucadores (2023)
+http://208.88.245.85/nuevo/sharper.2023.dual.mkv
+
+#EXTINF: -1 ,Malcriados (2023)
+http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
+
+#EXTINF: -1 ,John Wick 4 (2023)
+http://208.88.245.81/nuevo/johnwick4.dual.2023.mkv
+
+#EXTINF: -1 ,Credo III (2023)
+http://208.88.245.85/nuevo/creed3.dual.2023.mkv
+
+#EXTINF: -1 ,Super Mario Bros: La película (2023)
+https://ia601605.us.archive.org/13/items/a1owk1o2knw2j1ini/a1owk1o2knw2j1ini.mp4
+
+#EXTINF: -1 ,Tetris (2023)
+https://od.lk/s/OTZfNzc3MTU1MDlf/Tetris%20%282023%29%20Online.mp4
+
+#EXTINF: -1 ,Shazam 1 (2019)
+http://vod.tuxchannel.mx/peliculas/720/shazam%202019.mkv
+
+#EXTINF: -1 ,Shazam 2 (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmarz%2FVer%20%C2%A1Shazam!%20La%20furia%20de%20los %20dioses%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF: -1 ,The Jack in the Box: El despertar (2022)
+http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
+
+#EXTINF: -1 ,Llaman a la puerta (2023)
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
+
+#EXTINF: -1 ,Historia de Honor (2022)
+http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
+
+#EXTINF: -1 ,Mal de ojo (2022)
+http://vod.tuxchannel.mx/peliculas/720/mal%20de%20ojo%202022.mkv
 
 #EXTINF: -1 ,ESTRENOS:THE MINE (2017)
 http://bit.ly/THEMINE
@@ -544,5 +623,37 @@ https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mk
 #EXTINF: -1 ,Chucky El Muñeco Diabolico (TERROR)
 https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
 
-#EXTINF:-1,Chucky El Muñeco Diabolico II (TERROR)
+#EXTINF: -1 ,Chucky El Muñeco Diabolico II (TERROR)
 https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
+
+
+
+#EXTINF:-1,Hasta el fondo: La historia de Pornhub XXX
+http://208.88.245.81/nuevo/money.shot.dual2023.mkv
+
+#EXTINF: -1 ,Playboy
+http://138.59.177.34:8000/play/a01r/index.m3u8
+
+#EXTINF: -1 ,SexTream
+http://138.59.177.34:8000/play/a07g/index.m3u8
+
+#EXTINF: -1 ,VENUS
+http://138.59.177.34:8000/play/a04h/index.m3u8
+
+#EXTINF: -1 ,Canal ADULTOS 01
+https://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF: -1 ,Canal ADULTOS 02
+https://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF: -1 ,Canal ADULTOS 03
+https://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF: -1 ,Canal ADULTOS 04
+https://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF: -1 ,Canal ADULTOS 05
+https://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF: -1 ,Canal ADULTOS 06
+https://cdn.adultiptv.net/brunette.m3u8
